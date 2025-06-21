@@ -1,4 +1,4 @@
-{
+require{"./plugins/allgames"
   "name": "prince-mdx",
   "version": "3.0.0",
   "description": "I am PRINCE MDX, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
