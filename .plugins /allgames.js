@@ -1,5 +1,4 @@
-js
-// allgames.js – Supercharged WhatsApp Game Bot Plugin
+
 
 const { command, onMessage } = require('../lib');
 
